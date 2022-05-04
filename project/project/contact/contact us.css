@@ -1,0 +1,62 @@
+/*Nav items*/
+
+.sibi{
+  height: 70px;
+  width: 160px;
+}
+
+.nav-item.dropdown .btn{
+  color: rgba(255,255,255,.55);
+
+}
+/*
+.nav-item.dropdown .btn:hover {
+    opacity: 0.7;
+    color: hotpink;
+}
+*/
+a.dropdown-item{
+  color:#3332b1;
+}
+
+
+.container-fluid{
+  background-color: #caafcb;
+  font-size: medium; 
+ 
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+    color: red;
+}
+  
+.fa {
+  padding: 20px;
+ 
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color: #4e16f766;
+}
+.head{
+  display: flex;
+  background-color:#caafcb;
+  padding-bottom: 30px;
+}
+.img{
+  height: 440px;
+  margin-top: 80px;
+}
+.matter{
+  margin-top: 40px;
+  margin-left: 220px;
+}
+.card-body{
+  background-color: whitesmoke;
+}
+a.cont{
+  color: initial;
+  text-decoration: none;
+}

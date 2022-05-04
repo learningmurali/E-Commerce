@@ -1,0 +1,83 @@
+body{
+
+   
+
+    background-attachment: fixed;
+
+
+}
+/*Nav items*/
+
+.sibi{
+  height: 70px;
+  width: 160px;
+}
+
+.nav-item.dropdown .btn{
+  color: rgba(255,255,255,.55);
+
+}
+/*
+.nav-item.dropdown .btn:hover {
+    opacity: 0.7;
+    color: hotpink;
+}
+*/
+a.dropdown-item{
+  color:#3332b1;
+}
+
+
+.container-fluid{
+  background-color: #caafcb;
+  font-size: medium; 
+ 
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+    color: red;
+}
+  
+.fa {
+  padding: 20px;
+ 
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color: #4e16f766;
+}
+
+a.main{
+  color:initial;
+  text-decoration: none;
+}
+
+.img{
+    background-image:url("images/aboutus.jpg");
+    margin-top: -150px;
+     margin-bottom: -100px;
+}
+.content{
+    
+ background-color: #caafcb;
+    
+    width: 70%;
+
+    padding: 40px;
+
+    margin: 100px auto;
+
+    margin-top: 150px ;
+
+    font-family: calibri;
+
+    border-radius: 10px;
+
+                color: purple;
+
+}
+a.high{
+  color: indianred;
+}
